@@ -1,0 +1,39 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/CAPAD/MapServer" password="" name="Fed CAPAD" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Conservation_Management_Zones/MapServer" password="" name="Fed Conservation Management Zones" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/EPBC_Referrals/MapServer" password="" name="Fed EPBC Referrals" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/IBRA7_Regions/MapServer" password="" name="Fed IBRA Region" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/IBRA7_Subregions/FeatureServer" password="" name="Fed IBRA Sub-region" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Indigenous_Protected_Areas/MapServer" password="" name="Fed Indigenous Protected Areas" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Key_Ecological_Features/MapServer" password="" name="Fed Key Ecological Features" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Australian_Marine_Parks/MapServer" password="" name="Fed Marine Parks" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Ramsar_Upstream_Catchments/MapServer" password="" name="Fed Ramsar Upstream Catchments" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/Ramsar_Wetlands/MapServer" password="" name="Fed Ramsar Wetlands" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Fire/NPWS_Fire_History/MapServer" password="" name="NPWS Fire History" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme_multiCRS/MapServer" password="" name="NSW Administrative (multi-CRS)" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Land_Parcel_Property_Theme/FeatureServer" password="" name="NSW Administrative &lt;&lt;&lt;" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://services-ap1.arcgis.com/jct1MFjs6fwz4KwR/arcgis/rest/services/Public_View_Biodiversity_Stewardship_Agreements_Public_Map_Production/FeatureServer" password="" name="NSW BSA Public" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/EDP/BionetSpeciesSightings/MapServer" password="" name="NSW BioNet Species Sightings (use the raster)" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://www.lmbc.nsw.gov.au/arcgis/rest/services/BV/BiodiversityValues/MapServer" password="" name="NSW Biodiversity Values Map" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Fire/BFPL/MapServer" password="" name="NSW Bushfire Prone Land" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Cadastre/MapServer" password="" name="NSW Cadastre" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/EDP" password="" name="NSW DCCEEW" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod1.environment.nsw.gov.au/arcgis/rest/services" password="" name="NSW DPE (All Services)" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Planning/Hazard/MapServer" password="" name="NSW Hazard (Flood &amp; Landslide)" username="" authcfg=""/>
+    <arcgisfeatureserver url="http://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Hydrography/MapServer" password="" name="NSW Hydrography" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://spatial.industry.nsw.gov.au/arcgis/rest/services/PUBLIC/StreamOrder/MapServer/" password="" name="NSW Hydrolines by Strahler order" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Primary_Planning_Layers/MapServer" password="" name="NSW Land Zoning" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Primary_Planning_Layers/MapServer" password="" name="NSW Minimum Lot Size" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/VIS/Vegetation_Landscapes_v31_ECOS_MESO_bnd/MapServer" password="" name="NSW Mitchell Landscape" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://www.lmbc.nsw.gov.au/arcgis/rest/services/NVR/ExcludedLand/ImageServer" password="" name="NSW Native Vegetation Regulatory Map" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Planning" password="" name="NSW Planning" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_POI/MapServer" password="" name="NSW Points of Interest" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Planning/SEPP/MapServer" password="" name="NSW SEPP" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/VIS/SVTM_NSW_Extant_PCT/MapServer" password="" name="NSW SVTM" username="" authcfg=""/>
+    <arcgisfeatureserver url="http://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer" password="" name="NSW Satellite Imagery" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://spatial.industry.nsw.gov.au/arcgis/rest/services/PUBLIC/WAP_Weeds/MapServer" password="" name="NSW Weeds" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Drainage/NSW_Wetlands_EDP/MapServer" password="" name="NSW Wetlands" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer" password="" name="_NSW SIX Maps Satellite" username="" authcfg=""/>
+    <arcgisfeatureserver url="https://maps4.six.nsw.gov.au/arcgis/rest/services/sixmaps/LPI_Imagery_Best/MapServer" password="" name="_NSW SIX Maps Satellite Alt" username="" authcfg=""/>
+</qgsARCGISFEATURESERVERConnections>

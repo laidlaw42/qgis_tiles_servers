@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections xmlns:http-header="https://qgis.org/http-header" version="1.0">
+    <vectortile zmax="14" url="https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_DarkGrey/VectorTileServer" password="" referer="" name="NSW Basemap Vector Tile Dark Grey" serviceType="arcgis" zmin="0" styleUrl="" http-header:referer="" authcfg="" username=""/>
+    <vectortile zmax="14" url="https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_LightGrey/VectorTileServer" password="" referer="" name="NSW Basemap Vector Tile Light Grey" serviceType="arcgis" zmin="0" styleUrl="" http-header:referer="" authcfg="" username=""/>
+</qgsVectorTileConnections>
